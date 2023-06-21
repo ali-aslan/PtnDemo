@@ -1,0 +1,48 @@
+{	
+	"Buildings":[
+	{
+		"Name":"Barracks",
+		"Health":100,
+		"SizeX":4,
+		"SizeY":4,
+		"Production":true,
+		"Description":"Barracks is a unit responsible for the training and development of military personnel and defense units."
+	},
+	{
+		"Name":"Oil Well",
+		"Health":70,
+		"SizeX":5,
+		"SizeY":5,
+		"Production":false,
+		"Description":"The Oil Production facility is responsible for oil and fuel production but is unable to carry out production due to declining reserves."
+	},	
+	{
+		"Name":"Oil Products",
+		"Health":10,
+		"SizeX":2,
+		"SizeY":2,
+		"Production":false,
+		"Description":"The Oil Products facility is a place where oil and fuel products are stored. It is established to provide refueling services for vehicles."
+	},
+	{
+		"Name":"Refinery",
+		"Health":70,
+		"SizeX":3,
+		"SizeY":3,
+		"Production":false,
+		"Description":"The Refinery facility is responsible for purifying the crude oil extracted from underground and preparing it for use in the Oil Production facility."
+	},	
+	{
+		"Name":"Sun Panels",
+		"Health":50,
+		"SizeX":2,
+		"SizeY":3,
+		"Production":false,
+		"Description":"Sun Panels, by converting solar energy into electrical energy, meet the energy needs of units and buildings during the daytime."
+	}
+	]
+	
+	
+	
+	
+}

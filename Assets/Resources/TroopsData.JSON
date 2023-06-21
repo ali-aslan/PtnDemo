@@ -1,0 +1,36 @@
+{
+	"Troops":[
+	{
+		"Name":"Mortar",
+		"Health":10,
+		"AttackPow":2,
+		"AttackSpeed":5,
+		"Range":3,
+		"Description":"Mortar is a tactical military unit with low firepower designed for medium-Range targets."
+	},
+	{
+		"Name":"Rocket Launcher",
+		"Health":10,
+		"AttackPow":10,
+		"AttackSpeed":2,
+		"Range":6,
+		"Description":"A rocket launcher is a tactical military unit with high firepower designed for long-Range targets."
+	},	
+	{
+		"Name":"Patrol",
+		"Health":10,
+		"AttackPow":5,
+		"AttackSpeed":2,
+		"Range":0,
+		"Description":"Patrol is a tactical military unit with destructive power designed for close-Range targets."
+	},
+	{
+		"Name":"Special Forces",
+		"Health":10,
+		"AttackPow":15,
+		"AttackSpeed":2,
+		"Range":0,
+		"Description":"Special Forces is a tactical military unit with medium to high destructive power designed for close-Range targets."
+	}
+	]	
+}
